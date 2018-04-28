@@ -13,6 +13,10 @@ footer {
   border-width: 5px 0px 0px;
 }
 
+.btn {
+  background-color: #4aaaa5;
+}
+
 .navbar-brand,
 h3 {
   background-color: #4aaaa5;
